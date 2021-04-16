@@ -1,6 +1,7 @@
 # SpeedWatcher
-This is a python script that speeds up the parts of the video that don't have any dialogue.
-
+This is a python script that speeds up the parts of the video that don't have any dialogue./n <br>
+Just a fun project for watching movies and series faster.
+Example: By speeding up the parts without plot using this script, I watched an 8 hour series in 2.5 hours.
 
 Using moviepy and pysrt, a video is then seperated by the times of the subtitles (assuming the subtitles have no wierd timing that messes it up) and then speeds up individual clips and combining it into one.
 
